@@ -48,3 +48,9 @@ msgstr "未运行"
 
 msgid "RUNNING"
 msgstr "运行中"
+
+msgid "Users Manager"
+msgstr "用户管理"
+
+msgid "User name"
+msgstr "用户名"
